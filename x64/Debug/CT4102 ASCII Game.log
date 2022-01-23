@@ -1,0 +1,4 @@
+﻿  Game.cpp
+H:\University\BSc Applied Artificial Intelligence\Programming Algorithms and Techniques\ct4102-ascii-game-sheldyso\GameObjects.h(90,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+H:\University\BSc Applied Artificial Intelligence\Programming Algorithms and Techniques\ct4102-ascii-game-sheldyso\Game.cpp(85,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CT4102 ASCII Game.vcxproj -> H:\University\BSc Applied Artificial Intelligence\Programming Algorithms and Techniques\ct4102-ascii-game-sheldyso\x64\Debug\CT4102 ASCII Game.exe
